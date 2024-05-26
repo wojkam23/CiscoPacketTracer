@@ -19,7 +19,3 @@ To make use of the projects and configurations:
 1. Clone or download this repository to your local computer.
 2. Run the Cisco Packet Tracer program (make sure you have it installed on your computer).
 3. In the Cisco Packet Tracer program, import a project or configuration from the appropriate project file.
-
-## Future Planned Developments
-
-I intend to continue developing this repository and adding new projects and configurations in the future.
